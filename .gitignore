@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+extracted/
+warped_debug.png
